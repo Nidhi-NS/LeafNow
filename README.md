@@ -1,2 +1,2 @@
-# Farmers-website
-A farming website made with Bootstrap 4 
+# Leaf Now
+A completely responsive full stack website for buying/selling/donating plants/seeds.
